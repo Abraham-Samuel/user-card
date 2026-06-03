@@ -124,6 +124,7 @@ h1 {
   max-width: 1000px;
   margin: 0 auto;
   overflow: hidden;
+  padding: 0 50px;
 }
 
 .user-card {
